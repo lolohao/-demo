@@ -8,7 +8,12 @@
 =======
 88888888
 >>>>>>> fenzhi1
+<<<<<<< HEAD
 cccccccc
 dddddddd
 ffffffff
 gggggggg
+=======
+aaaaaaaa
+bbbbbbbb
+>>>>>>> fenzhi1
